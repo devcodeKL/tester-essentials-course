@@ -1,0 +1,37 @@
+Mini-Activity - Use Case Analysis
+
+Create a Use Case Analysis for your previously done Capstone 3 Applications:
+- Product Creation
+- Product Edit
+- Product Archive
+- Product Re-Activation
+
+Use Case Analysis: E-commerce API - Product Management
+
+Use Case 1: Product Creation
+Actor: Admin
+Steps:
+1. Admin logs in.
+2. Admin navigates to product creation.
+3. Admin enters product details, uploads images, and saves new product.
+
+Use Case 2: Product Edit
+Actor: Admin 
+Steps:
+1. Admin logs in.
+2. Admin selects product to edit.
+3. Admin enters product details, uploads images. and saves new product.
+
+Use Case 3: Product Archive
+Actor: Admin
+Steps:
+1. Admin logs in.
+2. Admin selects product to archive.
+3. Admin marks products as archived and confirms action.
+
+Use Case 4: Product Re-Activation
+Actor: Admin
+Steps:
+1. Admin logs in.
+2. Admin selects archived product to re-activate.
+3. Admin marks product as active and confirms re-activation.

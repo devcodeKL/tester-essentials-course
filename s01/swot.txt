@@ -1,0 +1,23 @@
+Mini-Activity - SWOT Analysis
+
+Create a SWOT Analysis for your previously done Capstone 3 Applications.
+
+Strengths:
+1. Learning Opportunity
+2. Flexibility
+3. Cost-Effective
+
+Weaknesses:
+1. Limited Functionality
+2. Inadequate knowledge of security best practices
+3. Scalability Challenges
+
+Opportunities:
+1. Skill Improvement
+2. Collaboration
+3. Market Demand
+
+Threats:
+1. Competition
+2. Technological Advancements
+3. Data Security Risks

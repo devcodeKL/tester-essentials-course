@@ -1,0 +1,47 @@
+Mini-Activity - Data Flow Diagram
+
+Create a simple Data Flow Diagram for your previously done Capstone 3 Applications
+    a. User Login
+    b. Product Creation
+
+Level 0 DFD:
+
+      +------------------+       +-----------------+
+      |    User Login    |-------| User Database   |
+      +------------------+       +-----------------+
+                 |                        |
+                 |                        |
+                 v                        v
+           +-----------+            +-------------------+
+           | Users     |            | Product Database  |
+           +-----------+            +-------------------+
+                |                         |
+                |                         |
+                v                         v
+           +------------+             +------------+
+           |   Admin    |             |   Products |
+           +------------+             +------------+
+
+Level 1 DFD for User Login:
+
+      +------------------+       +-----------------+
+      |  Validate User   |-------| User Database   |
+      +------------------+       +-----------------+
+                 |                        |
+                 |                        |
+                 v                        v
+           +-----------+            +-------------------+
+           | Users     |            | Token             |
+           +-----------+            +-------------------+
+
+Level 1 DFD for Product Creation:
+
+      +------------------+       +-----------------+
+      | Verify Admin     |-------| Product Database|
+      +------------------+       +-----------------+
+                 |                        |
+                 |                        |
+                 v                        v
+           +-----------+            +-------------------+
+           | Admin     |            | Product Details   |
+           +-----------+            +-------------------+
