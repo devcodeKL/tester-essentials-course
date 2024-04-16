@@ -1,0 +1,16 @@
+{
+    "testSuite": "Portfolio page test",
+    "totalTests": 20,
+    "passedTests": 18,
+    "percentage": 90,
+    "errors": [
+        {
+            "test": "Page has a number input",
+            "feedback": "No contact form number input type found on the page.: expected +0 to be at least 1"
+        },
+        {
+            "test": "Page has a select element input",
+            "feedback": "No contact form select element found on the page.: expected +0 to be at least 1"
+        }
+    ]
+}
