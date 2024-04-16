@@ -1,0 +1,22 @@
+{
+  "name": "activity",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha --recursive"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.10",
+    "geckodriver": "^4.3.3",
+    "mocha": "^10.4.0",
+    "selenium-webdriver": "^4.16.0"
+  },
+  "devDependencies": {},
+  "description": ""
+}
